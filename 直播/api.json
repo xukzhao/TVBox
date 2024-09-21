@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+    "spider": "https://gh.con.sh/https://raw.githubusercontent.com/xukzhao/TVBox/refs/heads/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -109,7 +109,7 @@
         {
             "name": "直播1",
             "type": 0,
-            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "url": "https://gh.con.sh/https://raw.githubusercontent.com/xukzhao/TVBox/refs/heads/main/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         },
